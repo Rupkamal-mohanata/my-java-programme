@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MaximumTwo{
+class No1MaximumTwo{
    public static void main(String[]args){
 	Scanner sc = new Scanner(System.in);
 	
@@ -10,8 +10,8 @@ class MaximumTwo{
         
  // Logic
     if(num1>num2){
-        System.out.println("Maximum No. between "+num1+ " & " +num2+" is "+ num1);
-    }else{
+       
+    }else{ System.out.println("Maximum No. between "+num1+ " & " +num2+" is "+ num1);
 		System.out.println("Maximum No. between " +num1+ " & " +num2+" is "+ num2);
 		}
    }

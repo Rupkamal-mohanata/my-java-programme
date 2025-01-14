@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class NumInfo{
+class NumInfoNo3{
 	//main method
     public static void main(String[] args) {
         
